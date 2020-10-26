@@ -1,1 +1,15 @@
+#Liberpass
+
+É um software de criação de senhas. Cria senhas em 3 formatos diferente Hexadecimal, Decimal e Binário.
+O soft foi criado em HTML,CSS e JAVASCRIPT. Utilizando o Node.js e o Framework Electron.js
+
+
+#Linux
+
+Para utilizar em sistemas linux, Abra o terminal é execulte o comando abaixo.
+
+cd Liberpass/
+ls -l
+sudo chmod +x ./Liberpass
+./Liberpass
 
